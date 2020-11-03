@@ -11,6 +11,7 @@ public class BoardVo {
 	private int parent_num;
 	private String file_num;
 	
+	
 	public BoardVo() {
 		
 	}
